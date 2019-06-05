@@ -1,5 +1,5 @@
 # sentiweb
-Have you ever wanted to know if your web pages gives an overall positive message to users? Sentiweb is a tool that uses sentiment analysis to determine the overall sentiment of your web pages. 
+Have you ever wanted to know if your web pages give an overall positive message to users? Sentiweb is a tool that uses sentiment analysis to determine the overall sentiment of your web pages. 
 
 Dependencies
 - matplotlib: https://matplotlib.org/
